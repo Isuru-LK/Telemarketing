@@ -15,3 +15,5 @@ However, we must acknowledge that this model has some limitations, as the estima
 coefficients are not unique, which could be misleading. To overcome this issue, we suggest exploring 
 regularization techniques such as ridge regression and lasso regression, which are beyond the scope of 
 this study
+
+Dataset - https://www.kaggle.com/datasets/aguado/telemarketing-jyb-dataset
